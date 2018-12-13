@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/k8s-dns-kube-dns-amd64:1.14.7
+FROM k8s.gcr.io/heapster-influxdb-amd64:v1.3.3
